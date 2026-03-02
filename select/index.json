@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "最後の春休み (2022 mix)",
+  "base_artist": "松任谷由実",
+  "createdAt": "2026-03-02T07:35:36.216761Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最後の春休み",
+      "artist": "Yumi Matsutoya",
+      "has_synced": false,
+      "path": "select/01_最後の春休み_Yumi_Matsutoya.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "最後の春休み",
+      "artist": "松任谷由実",
+      "has_synced": false,
+      "path": "select/02_最後の春休み_松任谷由実.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "最後の春休み - 2022 mix",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/03_最後の春休み_-_2022_mix_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "最後の春休み",
+      "artist": "千菅春香",
+      "has_synced": true,
+      "path": "select/04_最後の春休み_千菅春香.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "最後の春休み [2022 Mix]",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/05_最後の春休み_[2022_Mix]_松任谷由実.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "最後の春休み (2022 mix)",
+      "artist": "松任谷由実",
+      "has_synced": true,
+      "path": "select/06_最後の春休み_(2022_mix)_松任谷由実.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最後の春休み",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_01_最後の春休み_松任谷_由実.txt"
+    }
+  ]
+}
